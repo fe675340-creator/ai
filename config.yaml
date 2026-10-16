@@ -1,4 +1,7 @@
 iniciar: si
 comando: cmd
-escribir: dir
+escribir: cd..
 enter: si
+escribir: cd..
+enter: si
+escribir: tree
